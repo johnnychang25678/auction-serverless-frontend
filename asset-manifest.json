@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/auction-serverless-frontend/static/css/main.854a357d.chunk.css",
+    "main.js": "/github.io/auction-serverless-frontend/static/js/main.a0723f38.chunk.js",
+    "main.js.map": "/github.io/auction-serverless-frontend/static/js/main.a0723f38.chunk.js.map",
+    "runtime-main.js": "/github.io/auction-serverless-frontend/static/js/runtime-main.728f1a90.js",
+    "runtime-main.js.map": "/github.io/auction-serverless-frontend/static/js/runtime-main.728f1a90.js.map",
+    "static/js/2.89ed2bf2.chunk.js": "/github.io/auction-serverless-frontend/static/js/2.89ed2bf2.chunk.js",
+    "static/js/2.89ed2bf2.chunk.js.map": "/github.io/auction-serverless-frontend/static/js/2.89ed2bf2.chunk.js.map",
+    "index.html": "/github.io/auction-serverless-frontend/index.html",
+    "precache-manifest.ff2810422dcff2299610f8738360ce43.js": "/github.io/auction-serverless-frontend/precache-manifest.ff2810422dcff2299610f8738360ce43.js",
+    "service-worker.js": "/github.io/auction-serverless-frontend/service-worker.js",
+    "static/css/main.854a357d.chunk.css.map": "/github.io/auction-serverless-frontend/static/css/main.854a357d.chunk.css.map",
+    "static/js/2.89ed2bf2.chunk.js.LICENSE.txt": "/github.io/auction-serverless-frontend/static/js/2.89ed2bf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728f1a90.js",
+    "static/js/2.89ed2bf2.chunk.js",
+    "static/css/main.854a357d.chunk.css",
+    "static/js/main.a0723f38.chunk.js"
+  ]
+}
